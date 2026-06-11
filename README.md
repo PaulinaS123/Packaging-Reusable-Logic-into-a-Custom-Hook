@@ -268,7 +268,7 @@ Result: Passed
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PaulinaS123/Packaging-Reusable-Logic-into-a-Custom-Hook.git
 ```
 
 Navigate to the project folder:
@@ -303,5 +303,3 @@ Open the browser using the URL displayed in the terminal.
 * Responsive Design
 * Code Reusability
 
-
-North Seattle College
